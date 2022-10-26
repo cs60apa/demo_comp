@@ -3,4 +3,6 @@ _we are collaborating with the dev_
 
 - git
 - github
+- Remote
+- collabo
 - lets goes 
